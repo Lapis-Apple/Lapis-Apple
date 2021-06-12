@@ -1,6 +1,8 @@
 ### Hi there 👋!
 I'm Lapis Apple.
-A normally student from China, Shandong. Not a programmer.
+A normally student from China, Shandong.
+
+Not a programmer, not a coder.
 
 - 🔭 I’m currently working on playing games!(
 - 🌱 I’m currently learning nothing yet.
