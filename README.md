@@ -8,7 +8,7 @@ Not a programmer, not a coder.
 - 🌱 I’m currently learning nothing yet.
 - 💬 Ask me anything!
 - 📫 How to reach me: Twitter [@dLapisApple](https://twitter.com/dLapisApple)
-- 😄 Pronouns: [he/his/him](https://pronoun.is/he).
+- 😄 Pronouns: [he/him](https://pronoun.is/he).
 <!-- - ⚡ Fun fact:  -->
 
 I feel fun with Arch Linux and have always been a GNU/Linux fan.
