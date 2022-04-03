@@ -1,17 +1,17 @@
 ### Hi there 👋!
-I'm Lapis Apple.
+Here's Lapis Apple!
 A normally student from China, Shandong.
 
-Not a programmer, not a coder.
+I'm not a programmer and not a coder.
 
 - 🔭 I’m currently working on playing games!(
-- 🌱 I’m currently learning nothing yet.
+- 🌱 I’m currently learning Python.
 - 💬 Ask me anything!
 - 📫 How to reach me: Twitter [@dLapisApple](https://twitter.com/dLapisApple)
 - 😄 Pronouns: [he/him](https://pronoun.is/he).
-<!-- - ⚡ Fun fact:  -->
+- ~~⚡ Fun fact: かわいいものが好き！~~
 
-I feel fun with Arch Linux and have always been a GNU/Linux fan.
+Feel free to PM or Email me.
 
 <!--
 **Lapis-Apple/Lapis-Apple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
