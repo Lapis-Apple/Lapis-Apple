@@ -1,8 +1,8 @@
-### Hi there 👋!
-Here's Lapis Apple!
-A normally student from China, Shandong.
+### Hello there
+I'm Lapis Apple, 
+A student from China, Shandong.
 
-I'm not a programmer and not a coder.
+Currently not a programmer nor a coder, learning much things.
 
 - 🔭 I’m currently working on playing games!(
 - 🌱 I’m currently learning Python.
@@ -11,7 +11,7 @@ I'm not a programmer and not a coder.
 - 😄 Pronouns: [he/him](https://pronoun.is/he).
 - ~~⚡ Fun fact: かわいいものが好き！~~
 
-Feel free to PM or Email me.
+Feel free to PM or Email me, or follow me on Twitter!
 
 <!--
 **Lapis-Apple/Lapis-Apple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
