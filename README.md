@@ -1,4 +1,4 @@
-### Hello there
+### Hello there!
 I'm Lapis Apple, 
 A student from China, Shandong.
 
